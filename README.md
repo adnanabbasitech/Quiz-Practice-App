@@ -35,5 +35,4 @@ https://quiz-practice-app-opal.vercel.app/
 
 ---
 
-## 📂 Project Structure
 

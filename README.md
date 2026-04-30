@@ -6,7 +6,7 @@ It allows users to attempt multiple-choice questions from **General Knowledge an
 ---
 
 ## 🚀 Live Demo
-👉 Add your live link here (GitHub Pages / Netlify / Vercel)
+https://quiz-practice-app-opal.vercel.app/
 
 ---
 
